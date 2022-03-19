@@ -130,6 +130,9 @@ body {
 
 .card_image {
   padding: 1.2rem 0;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
 }
 
 .card_title {
